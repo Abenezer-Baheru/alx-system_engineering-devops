@@ -1,29 +1,3 @@
-# man
-## man
-### man
-#### man
-##### man
-###### man
-```
-what a short cut !
-what a short cut !
-what a short cut !
-```
-* man ``aleh``
-* man
-**check it**
-
-* [online debagefr](https://www.onlinegdb.com/)
-* 
-
-  [link](https://www.onlinegdb.com/) | man aleh  |
-  
-## Files & Description
-|  S/N	|	File	|	Description	| S/N	|	File	|	Description	|
-|-|-|-|-|-|-|
-|  1.	| [try](https://www.onlinegdb.com/) | The regular expression must match ``School`` | 1.	| [try](https://www.onlinegdb.com/) | The regular expression must match ``School`` |
-
-
 # 0x06. Regular expression
 ### Background Context
 In this project, regular expression was built using Oniguruma, a regular expression library used by Ruby by default. Because the focus of this exercise is to play with regular expressions (regex), here is the Ruby code that you should use, just replace the regexp part, meaning the code in between the ``//:``
