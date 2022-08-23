@@ -18,7 +18,9 @@ what a short cut !
 
   [link](https://www.onlinegdb.com/) | man aleh "test" |
   
-|  1.	|try](https://www.onlinegdb.com/) | The regular expression must match ``School`` |
+
+  
+|  1.	| [try](https://www.onlinegdb.com/) | The regular expression must match ``School`` |
 
 
 # 0x06. Regular expression
