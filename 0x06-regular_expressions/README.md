@@ -4,13 +4,21 @@
 #### man
 ##### man
 ###### man
+```
+what a short cut !
+what a short cut !
+what a short cut !
+```
+* man ``aleh``
 * man
-* man
-* man
-* man
-* [link](https://www.onlinegdb.com/)
-  [link](https://www.onlinegdb.com/)
+**check it**
+
+* [online debagefr](https://www.onlinegdb.com/)
+* 
+
   [link](https://www.onlinegdb.com/) | man aleh "test" |
+  
+|  1.	|try](https://www.onlinegdb.com/) | The regular expression must match ``School`` |
 
 
 # 0x06. Regular expression
