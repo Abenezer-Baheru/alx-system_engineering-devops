@@ -52,7 +52,7 @@ backend web_servers
 	redirect scheme https if !{ ssl_fc }
 	balance roundrobin
 	server 42026-web-01 3.238.236.255 check
-  server 42026-web-02 52.73.23.55:80 check
+        server 42026-web-02 52.73.23.55:80 check
 
 backend letsencrypt-backend
    server letsencrypt 127.0.0.1:54321
