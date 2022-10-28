@@ -36,10 +36,11 @@ defaults
 backend web-backend
         balance roundrobin
         option forwardfor
-        server 9318-web-01 3.236.115.124:80 check
-        server 9318-web-02 3.227.233.5:80 check
+        server 42026-web-01 3.238.236.255 check
+	server 42026-web-02 52.73.23.55:80 check
+    
 frontend proxynode
         bind *:80
 	mode http
-        bind *:443 ssl crt /etc/letsencrypt/live/www.dikalite.tech/fullchain.pem
+        bind *:443 ssl crt /etc/letsencrypt/live/www.abeni.tech/fullchain.pem
         default_backend web-backend
