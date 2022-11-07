@@ -1,6 +1,6 @@
 # 0x13. Firewall
 
-## <p align="center">![alt text](https://github.com/Dikachis/alx-system_engineering-devops/blob/main/image_devops/Firewall.png?raw=true)</p>
+## <p align="center">![alt text](https://github.com/Abenezer-Baheru/alx-system_engineering-devops/blob/master/0x13-firewall/Firewall.png)</p>
 
 ### Resources
 **Read or watch:**
