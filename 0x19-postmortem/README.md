@@ -29,7 +29,7 @@ This project contains tasks for learning about writing a postmortem.
       + Be brief and straight to the point, between 400 to 600 words
 
 + [x] 1. Make people want to read your postmortem
-+  [README.md](https://medium.com/@ephremyeabe/postmortem-500-error-outage-8a14fd6c3d75)
++  [README.md](https://medium.com/@abeniug2001/postmortem-500-error-outage-307e79786e24)
   + We are constantly stormed by a quantity of information, it’s tough to get people to read you.
   + Make your post-mortem attractive by adding humour, a pretty diagram or anything that would catch your audience attention.
 
